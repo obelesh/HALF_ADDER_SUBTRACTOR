@@ -40,7 +40,7 @@ Figure -02 HALF Subtractor
 
 ![Screenshot 2024-12-22 162506](https://github.com/user-attachments/assets/eb9bc0ef-dfac-452f-a1db-524d8c31946f)
 
-![Screenshot 2024-12-22 162520](https://github.com/user-attachments/assets/138e5ee6-60af-4903-a54e-345c2a4af81e
+![Screenshot 2024-12-22 162520](https://github.com/user-attachments/assets/138e5ee6-60af-4903-a54e-345c2a4af81e)
 
 ![Screenshot 2024-12-22 162536](https://github.com/user-attachments/assets/933867f1-b45b-49e7-a29c-a2dfcfc322ec)
 
