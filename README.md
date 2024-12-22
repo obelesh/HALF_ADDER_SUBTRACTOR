@@ -81,6 +81,9 @@ Developed by: RegisterNumber:*/ OBELESH R
 
 **Output/TIMING Waveform**
 
+
+
+
 ![Screenshot 2024-12-22 162639](https://github.com/user-attachments/assets/53d3bcfb-3a21-4773-8e59-f50ff1b56780)
 
 **Result:**
