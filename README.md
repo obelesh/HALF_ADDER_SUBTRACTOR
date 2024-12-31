@@ -32,10 +32,12 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
+![Screenshot 2024-12-31 235531](https://github.com/user-attachments/assets/7a507ccc-f25b-4a26-9c0d-8db61eea5036)
+
 
 **Truthtable**
-![{0F0BDF60-8F7F-4715-A8AA-D188FF12ECDB}](https://github.com/user-attachments/assets/11a448a3-6ba1-43ff-8134-fa3907090d09)
-![{D50DA4F8-060B-40A8-B1A0-27D93D66F137}](https://github.com/user-attachments/assets/5e9b1667-da28-4671-a38e-8bf392adfd5d)
+
+![Screenshot 2024-12-31 235639](https://github.com/user-attachments/assets/7ba4d065-185b-44ca-82d6-5c4fca4980e7)
 
 
 **Procedure**
@@ -76,10 +78,14 @@ Developed by: Aaron Mariyan A
 RegisterNumber: 24000262*/
 
 **RTL Schematic**
-![{4F0A2655-32B3-4301-8403-757C5A3330F3}](https://github.com/user-attachments/assets/9ec0ac4a-d5ee-40d5-8702-ff9ff6dea259)
+
+![Screenshot 2024-12-31 235812](https://github.com/user-attachments/assets/c5150f18-e6cc-4266-878b-b36588520a5e)
+
 
 **Output Waveform**
-![{0A6FB3B5-C608-4C37-8322-4F11CFCB1827}](https://github.com/user-attachments/assets/ecd05ff6-4981-4658-9356-0c255210b533)
+
+![Screenshot 2024-12-31 235836](https://github.com/user-attachments/assets/04b6628c-c2e4-40c0-bdf6-8446c65b65ed)
+
 
 **Result:**
    Thus design a half adder and half subtractor circuit and verified its truth table in
